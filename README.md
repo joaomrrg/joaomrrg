@@ -62,7 +62,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 
 ## Certifications
 <div>
-   [![Google](https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white)](https://github.com)
+   <img src="https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white" href="https://github.com" />
 
    <img src="https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white" />
    <img src="https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white" />
