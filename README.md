@@ -1,29 +1,29 @@
-# Hello, I'm João
-<a href="https://linkedin.com"><img src="https://www.linkedin.com/in/-joaogoncalves-/&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm CHANGEME
+<a href="https://www.linkedin.com/in/-joaogoncalves-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a 22 year old student currently finishing my bachelors degree and starting my masters degree soon!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+As a Computer Science and Engineering student aiming for a career in Cybersecurity, I am actively interested in Ethical Hacking, with a primary focus on network security.
+
+My main goal is to expand my knowledge, learn more about the field of cybersecurity, and gain professional experience.
+
+I am committed and dedicated towards my objectives, thrive in teamwork settings, manage my time effectively, and aim for perfection.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project/Course/Method         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Python          | <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>|
+| Linux OS | Bachelors Degree and Self Experimenting|
+| Networks         | Bachelors Degree and Self Experimenting|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
