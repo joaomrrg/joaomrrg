@@ -3,6 +3,7 @@
 
 I'm a 22 year old student currently finishing my bachelors degree and starting my masters degree soon!
 
+
 ## Objective
 
 As a Computer Science and Engineering student aiming for a career in Cybersecurity, I am actively interested in Ethical Hacking, with a primary focus on network security.
@@ -11,7 +12,8 @@ My main goal is to expand my knowledge, learn more about the field of cybersecur
 
 I am committed and dedicated towards my objectives, thrive in teamwork settings, manage my time effectively, and aim for perfection.
 
-## Skills
+
+## Skills and Knlowledge
 
 | Skill                                         | Associated Project/Method         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +21,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 | Linux OS | Bachelors Degree and Self Experimenting|
 | Networks         | Bachelors Degree and Self Experimenting|
 | Capture the FLag      | HackTheBox Machines|
-
+<br/>
 
 | Knowledge                                         | Associated Course         |
 |-----------------------------------------------|----------------------------|
@@ -31,6 +33,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 | Audits         | GCSPC|
 | Playbooks         | GCSPC|
 
+<br/>
 ## Tools
 
 
