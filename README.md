@@ -61,6 +61,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 
 
 ## Certifications
+Click for Certification
 <div>
    <a href="https://coursera.org/share/23f5f8885baccea85b250c75de743e9e"><img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-2980B9?style=for-the-badge&logo=google&logoColor=white" /> </a>
     <br/>
@@ -70,5 +71,4 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+<a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>
