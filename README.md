@@ -13,15 +13,16 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 
 ## Skills
 
-| Skill                                         | Associated Project/Course/Method         |
+| Skill                                         | Associated Project/Method         |
 |-----------------------------------------------|----------------------------|
 | Python          | <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>|
 | Linux OS | Bachelors Degree and Self Experimenting|
 | Networks         | Bachelors Degree and Self Experimenting|
 | Capture the FLag      | HackTheBox Machines|
 
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Course         |
+|-----------------------------------------------|----------------------------|
+| Python          | <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>|
 
 ## Tools
 
