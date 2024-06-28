@@ -20,9 +20,16 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 | Networks         | Bachelors Degree and Self Experimenting|
 | Capture the FLag      | HackTheBox Machines|
 
-| Skill                                         | Associated Course         |
+
+| Knowledge                                         | Associated Course         |
 |-----------------------------------------------|----------------------------|
-| Python          | <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>|
+| CIA Triad          | GCSPC|
+| CISSP Domains         | GCSPC|
+| Security Frameworks         | GCSPC|
+| Security Controls          | GCSPC|
+| OWASP         | GCSPC|
+| Audits         | GCSPC|
+| Playbooks         | GCSPC|
 
 ## Tools
 
