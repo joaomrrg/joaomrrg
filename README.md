@@ -34,7 +34,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF7043?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
 </div>
 
-### Network
+### API and Database 
 <div>
     <img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=Postman&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL%20Workbench-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
