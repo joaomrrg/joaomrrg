@@ -62,7 +62,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 
 ## Certifications
 <div>
-   <img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-2980B9?style=for-the-badge&logo=google&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-2980B9?style=for-the-badge&logo=google&logoColor=white" href="https://coursera.org/share/23f5f8885baccea85b250c75de743e9e"/>
     <br/>
    <img src="https://img.shields.io/badge/-Manage%20Security%20Risks-2980B9?style=for-the-badge&logo=google&logoColor=white" />
     <br/>
