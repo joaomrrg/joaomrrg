@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm João
 <a href="https://www.linkedin.com/in/-joaogoncalves-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a 22 year old student currently finishing my bachelors degree and starting my masters degree soon!
@@ -62,7 +62,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 
 ## Certifications
 <div>
-   <a href="https://github.com" target="_blank" onclick="window.open('https://example.com', '_blank');">
+   <a href="https://github.com">
     <img src="https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white" />
 </a>
    <img src="https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white" />
