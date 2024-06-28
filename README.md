@@ -18,7 +18,8 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 | Python          | <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>|
 | Linux OS | Bachelors Degree and Self Experimenting|
 | Networks         | Bachelors Degree and Self Experimenting|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Capture the FLag      | HackTheBox Machines|
+
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
