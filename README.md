@@ -63,8 +63,10 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 ## Certifications
 <div>
    <img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-2980B9?style=for-the-badge&logo=google&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Google-2980B9?style=for-the-badge&logo=Foundations%20of%20Cybersecurity&logoColor=white" />
+    <br/>
+   <img src="https://img.shields.io/badge/-Manage%20Security%20Risks-2980B9?style=for-the-badge&logo=google&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/-Networks%20and%20Network%20Security-2980B9?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Projects
