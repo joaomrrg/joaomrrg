@@ -18,6 +18,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 | Skill                                         | Associated Project/Method         |
 |-----------------------------------------------|----------------------------|
 | Python          | <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>|
+| SQL | Bachelors Degree and Self Experimenting|
 | Linux OS | Bachelors Degree and Self Experimenting|
 | Networks         | Bachelors Degree and Self Experimenting|
 | Capture the FLag      | HackTheBox Machines|
