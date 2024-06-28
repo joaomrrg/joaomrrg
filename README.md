@@ -30,9 +30,12 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Packet%20Tracer-1679A7?&style=for-the-badge&logo=terminal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF7043?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GNS3-0081C8?&style=for-the-badge&logo=gns3&logoColor=white" />
     <br/>
     <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Netcat-1679A7?&style=for-the-badge&logo=netcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gobuster-4E94CC?&style=for-the-badge&logo=gobuster&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-1A6E21?&style=for-the-badge&logo=john-the-ripper&logoColor=white" />
 </div>
 
 ### API and Database 
