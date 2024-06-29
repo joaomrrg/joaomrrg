@@ -68,7 +68,7 @@ Click for Certification
 <div>
    <a href="https://coursera.org/share/23f5f8885baccea85b250c75de743e9e"><img src="https://img.shields.io/badge/-Foundations%20of%20Cybersecurity-2980B9?style=for-the-badge&logo=google&logoColor=white" /> </a>
     <br/>
-   <img src="https://www.coursera.org/account/accomplishments/verify/FW3LHN56T5ND?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course?style=for-the-badge&logo=google&logoColor=white" />
+   <a href="https://www.coursera.org/account/accomplishments/verify/FW3LHN56T5ND"> <img src="https://img.shields.io/badge/-Manage%20Security%20Risks-2980B9?style=for-the-badge&logo=google&logoColor=white" /> </a>
     <br/>
     <img src="https://img.shields.io/badge/-Networks%20and%20Network%20Security-2980B9?style=for-the-badge&logo=google&logoColor=white" />
 </div>
