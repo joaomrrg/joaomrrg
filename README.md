@@ -79,7 +79,7 @@ Click for Certification
 <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>
 
 ### Clothing Website with both JavaScript and C# - Academic Purposes
-<a href="https://github.com/gfmcosta/dw-final-project-react">JavaScript and React Website</a>
+<a href="https://github.com/gfmcosta/dw-final-project-react">JavaScript and React Website</a><br/>
 <a href="https://github.com/gfmcosta/dw-final-project-c-sharp">C# Website</a>
 
 ### Student Union Mobile App - Academic Purposes
