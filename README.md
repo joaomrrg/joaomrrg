@@ -44,6 +44,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
     <img src="https://img.shields.io/badge/-Packet%20Tracer-1E90FF?&style=for-the-badge&logo=terminal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF5733?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-GNS3-1560BD?&style=for-the-badge&logo=gns3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali Linux-1560BD?&style=for-the-badge&logo=kali&logoColor=white" />
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/-Nmap-1F618D?&style=for-the-badge&logo=nmap&logoColor=white" />
