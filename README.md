@@ -4,7 +4,7 @@
 I'm a 22 year old student currently finishing my bachelors degree and starting my masters degree soon!
 
 
-## Objective
+## Objectives
 
 As a Computer Science and Engineering student aiming for a career in Cybersecurity, I am actively interested in Ethical Hacking, with a primary focus on network security.
 
