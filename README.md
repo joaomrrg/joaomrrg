@@ -74,4 +74,13 @@ Click for Certification
 </div>
 
 ## Projects
+
+### ARP Spoofer with both a Scanner and Sniffer
 <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>
+
+### Clothing Website with both JavaScript and C# - Academic Purposes
+<a href="https://github.com/gfmcosta/dw-final-project-react">JavaScript and React Website</a>
+<a href="https://github.com/gfmcosta/dw-final-project-c-sharp">C# Website</a>
+
+### Student Union Mobile App - Academic Purposes
+<a href="https://github.com/joaomrrg/NEEI_IPT_APP">NEEI Mobile App</a>
