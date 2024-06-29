@@ -1,5 +1,5 @@
 # Hello, I'm João
-<a href="https://www.linkedin.com/in/-joaogoncalves-/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/-joaogoncalves-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a 22 year old student currently finishing my bachelors degree and starting my masters degree soon!
 
