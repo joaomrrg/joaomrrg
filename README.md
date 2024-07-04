@@ -74,6 +74,8 @@ Click for Certification
     <a href="https://www.coursera.org/account/accomplishments/verify/ZPX99VUMAJL3?utm_source=ios&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><img src="https://img.shields.io/badge/-Networks%20and%20Network%20Security-2980B9?style=for-the-badge&logo=google&logoColor=white" /> </a>
     <br/>
     <a href="https://coursera.org/share/9178b314020bdfa348239456a9e73e24"><img src="https://img.shields.io/badge/-Linux%20and%20SQL-2980B9?style=for-the-badge&logo=google&logoColor=white" /> </a>
+    <br/>
+    <a href="https://coursera.org/share/149e23ba801883f6923e628959bfbcca"><img src="https://img.shields.io/badge/-Assets%20Threats%20and%20Vulnerabilities-2980B9?style=for-the-badge&logo=google&logoColor=white" /> </a>
 </div>
 
 ## Projects
