@@ -1,12 +1,12 @@
 # Hello, I'm João
 <a href="https://www.linkedin.com/in/-joaogoncalves-"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a 22 year old student currently finishing my bachelors degree and starting my masters degree soon!
+I'm a 22-year-old Computer Science Engineer about to start my master's in Cybersecurity.
 
 
 ## Objectives
 
-As a Computer Science and Engineering student aiming for a career in Cybersecurity, I am actively interested in Ethical Hacking, with a primary focus on network security.
+I am actively interested in Ethical Hacking, with a primary focus on network security.
 
 My main goal is to expand my knowledge, learn more about the field of cybersecurity, and gain professional experience.
 
