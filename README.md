@@ -24,7 +24,7 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 | SQL | Bachelors Degree and Self Experimenting|
 | Linux OS | Bachelors Degree and Self Experimenting|
 | Networks         | Bachelors Degree and Self Experimenting|
-| Capture the FLag      | HackTheBox Machines|
+| Capture the Flag      | HackTheBox Machines|
 <br/>
 
 | Knowledge                                         | Associated Course         |
