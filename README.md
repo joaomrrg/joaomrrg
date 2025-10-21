@@ -13,7 +13,8 @@ My main goal is to expand my knowledge, learn more about the field of cybersecur
 I am committed and dedicated towards my objectives, thrive in teamwork settings, manage my time effectively, and aim for perfection.
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomrrg&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomrrg&layout=compact&theme=dark&title=Languages&border_color=ff00ff&bg_color=0d1117)
+
 
 
 ## Skills and Knlowledge
