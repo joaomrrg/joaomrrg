@@ -66,7 +66,6 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 
 
 ## Certifications
-Click for Certification
 
 ### Google Cybersecurity Professional Certificate
 <div>
