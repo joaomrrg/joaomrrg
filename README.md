@@ -17,9 +17,9 @@ I am committed and dedicated towards my objectives, thrive in teamwork settings,
 
 | Skill                                         | Associated Project/Method         |
 |-----------------------------------------------|----------------------------|
-| Threats, Risks and Vulnerabilities          | GCS Certificate|
-| Incident Response          | GCS Certificate|
-| Security Hardening         | GCS Certificate|
+| Threats, Risks and Vulnerabilities          | Professional Experience; GCS Certificate|
+| Incident Response          | Professional Experience; GCS Certificate|
+| Security Hardening         | Professional Experience; GCS Certificate|
 | Python          | <a href="https://github.com/joaomrrg/ARP-Spoofer">ARP Spoofer</a>|
 | SQL | Bachelors Degree and Self Experimenting|
 | Linux OS | Bachelors Degree and Self Experimenting|
